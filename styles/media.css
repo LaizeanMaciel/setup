@@ -1,4 +1,5 @@
 
+
 @media screen and (max-width: 760px){
 
    
@@ -83,11 +84,11 @@
     }
 
     footer{
-        display: ;
         position: fixed;
         text-align: center;
         align-items: center;
         justify-content: center;
+        font-size: 12px;
     }
 
 
