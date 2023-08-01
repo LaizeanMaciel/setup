@@ -1,0 +1,98 @@
+
+@media screen and (max-width: 760px){
+
+   
+    body{
+        width: auto;
+    }
+    
+
+    #title{
+        align-items: center;
+        justify-content: center;
+    }
+    h2{
+        margin-top: 10px;
+        line-height: 5px;
+        font-size: 30px;
+        text-align: center;
+    }
+
+   
+    header{
+        flex-direction:column ;
+        align-items: center ;
+        justify-content: center;
+    }
+
+   
+
+   li{
+    flex-direction: column;
+    margin: 15px;
+    align-items: center;
+    justify-content: center;
+
+   }
+
+   #conta{
+    display: flex;
+   }
+
+   #conta>li>a{
+    text-decoration: none;
+   }
+
+
+
+   
+    
+
+
+    main{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    aside>h2{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    aside>p{
+        text-align: center;
+
+    }
+
+    img{
+        display: none;
+    }
+
+    input{
+        width: 90%;
+    }
+
+    form{
+        margin: 0 auto;
+        align-items: center;
+        width: 100%;
+        justify-content: center;
+
+    }
+
+    footer{
+        display: ;
+        position: fixed;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
+
+
+
+
+}
